@@ -1,2 +1,0 @@
-# bootstraptest
-bootstraptest
